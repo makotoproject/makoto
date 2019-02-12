@@ -174,7 +174,7 @@ namespace config
   boost::uuids::uuid const NETWORK_ID = { {
       0x6e, 0x6f, 0x74, 0x20, 0x61, 0x20, 0x73, 0x63, 0x61, 0x6d
     } }; // Makoto's nightmare
-  std::string const GENESIS_TX = "013c01ff0006ff9fdb580286b61a9ac76c0a6bb7bf6743d9e06379045d35ca012d2cf5bc9d0230e272ec4480a8d6b90702b8b549f286c2370b68cf01f2f5d0da44fddaac99abd19ae628c72c41b69b21bf8088aca3cf0202e7ea9a01677b6046da3c6c444bd44d6fa1387bfe36836b541eb22ee075f4c3bf8090cad2c60e022f4fa62a0849dbf32f00176ceecefdf7ab0c6dadb460c76d1529cdc8727ef49280e08d84ddcb0102b60b690ad99d52e2a5f9e8d091daf83399e9ebf1d5ebb3883003e72411688dba80c0caf384a3020210ee40c96dca4e9b7173a19c94de05af2d9418ef12127af24d0cce1532868a6e2101028f15476fedf718e52923a1acd5d0dc6262f8ecf628fa8b0dcdf090ed9306ce";
+  std::string const GENESIS_TX = "013c01ff0001ffffffffffff0302e41ef40342cb9b4d22c56efb73671c926899cb44df371afcbc48f80cbcaf2d2e21017767aafcde9be00dcfd098715ebcf7f410daebc582fda69d24a28e9d0bc890d1";
   //std::string const GENESIS_TX = "";
   uint32_t const GENESIS_NONCE = 9876;
 
